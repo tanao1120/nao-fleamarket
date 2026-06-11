@@ -27,6 +27,24 @@ Nginx 1.21.1
 Docker / Docker Compose
 Laravel Fortify
 
+### URL
+開発環境：http://localhost/
+phpMyAdmin：http://localhost:8080/
+
+### データベース
+
+データベース名：laravel_db
+
+### テーブル一覧
+
+- users
+- items
+- categories
+- category_item
+- likes
+- comments
+- purchases
+
 ## ER図
 
 ![ER図](ER.drawio.png)
